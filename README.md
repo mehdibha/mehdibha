@@ -3,7 +3,7 @@ I am a full stack web developer👨‍💻. Interested in making life easier. Fa
 
 - 🔭 I’m currently working on ReactJS, Nodejs.
 - 🍔 Currently learning machine learning with python and tenserflow.
-- ⚡  Available for **freelance** projects/**job** opportunities.
+- ⚡  Available for **Freelance** projects / **Job** opportunities.
 
 
 ### Contact
