@@ -1,8 +1,7 @@
 ## Hi there, I'm Mehdi 👋
 I am a full stack web developer👨‍💻. Interested in making life easier. Fascinated about machine learning.
 
-- 🔭 I’m currently working on ReactJS, Nodejs.
-- 🍔 Currently learning machine learning with python and tenserflow.
+- 🔭 I’m currently working on Reactjs, Nextjs, Nodejs, .
 - ⚡  Available for **Freelance** projects / **Job** opportunities.
 
 
