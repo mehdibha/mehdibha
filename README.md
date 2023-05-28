@@ -1,4 +1,4 @@
-Web developer, currently working on pengguin.com where we make language learning easier.
+Web developer, open source enthusiast, currently working on pengguin.com where we make language learning easier.
 
 
 
@@ -8,5 +8,6 @@ Web developer, currently working on pengguin.com where we make language learning
 **mehdibenhadjali@gmail.com**
 <br/>
 **<a href="https://www.linkedin.com/in/mehdibha/">linkedin.com/in/mehdibha</a>**
+**<a href="https://twitter.com/mehdibha_">twitter.com/mehdibha_</a>**
 
 
