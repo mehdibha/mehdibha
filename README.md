@@ -3,9 +3,9 @@ Web developer, open source enthusiast, currently working on <a href="https://www
 
 
 ### Contact
-**<a href="https://www.mehdibha.com">mehdibha.com</a>**
+**<a href="https://www.mehdibha.com">mehdibha.co</a>**
 <br/>
-**mehdibenhadjali@gmail.com**
+**hello@mehdibha.co**
 <br/>
 **<a href="https://www.linkedin.com/in/mehdibha/">linkedin.com/in/mehdibha</a>**
 <br/>
