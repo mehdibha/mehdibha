@@ -1,4 +1,4 @@
-Web developer, open source enthusiast, currently working on <a href="https://www.pengguin.com">pengguin.com</a> where we make language learning easier.
+Web developer, open source enthusiast, currently working as a freelancer  @<a href="https://www.upwork.com/freelancers/~01bf255619b222c4d2">upwork</a> the day, making open-source projects the night.
 
 
 
