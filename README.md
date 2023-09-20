@@ -1,5 +1,3 @@
-[<img src="https://www.notionfol.io/images/screenshots/screenshot01.png">](https://notionfol.io)
-
 > You can follow my maker journey by [following me on LinkedIn 💌](https://www.linkedin.com/in/mehdibha)
 
 Web developer, open-source enthusiast, currently working as a freelancer <a href="https://www.upwork.com/freelancers/~01bf255619b222c4d2">@upwork</a> the day, making open-source projects the night.
