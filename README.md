@@ -17,8 +17,8 @@ I made a goal this year to become a serial solopreneur who is shipping one produ
 
 #### USEFUL TOOLS I'VE BUILT
 - 🎧 [react-wave-player](https://github.com/mehdibha/react-wave-player): A react audio waveform player
-- 🎠 [Reactsel](https://mehdibha.co/projects/reactsel): A react carousel (Building)
-- 📜 [Readmegen](https://mehdibha.co/projects/reactsel): Readme generator for GitHub
+<!-- - 🎠 [Reactsel](https://mehdibha.co/projects/reactsel): A react carousel (Building)
+  - 📜 [Readmegen](https://mehdibha.co/projects/reactsel): Readme generator for GitHub -->
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hello@mehdibha.co).
 
