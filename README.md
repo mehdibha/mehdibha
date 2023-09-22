@@ -9,7 +9,7 @@ I made a goal this year to become a serial solopreneur who is shipping one produ
 
 ##### PRODUCTS I'VE BUILT
 - 📖 [Notionfolio](https://notionfol.io): Making elegant blogs using Notion as a CMS.
-- 
+
 ##### PRODUCTS TO BUILD
 - 🚀 [Guidely](https://mehdibha.co/projects/guidely): Making dynamic and collaborative roadmaps for learning a path or skill.
 - 🛒 [Marketplace](https://mehdibha.co/projects/guidely): An open-source marketplace made with Next.js.
