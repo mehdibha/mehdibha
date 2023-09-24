@@ -2,7 +2,7 @@
 
 Web developer, open-source enthusiast, currently working as a freelancer <a href="https://www.upwork.com/freelancers/~01bf255619b222c4d2">@upwork</a> the day, making open-source projects the night. 
 <br/>
-I made a goal this year to become a serial solopreneur who is shipping one product per month, you can follow my journey on social media.
+I made a goal this year to become a serial product maker who is shipping one product per month, you can follow my journey on social media.
 
 ##### WORKING ON
 - 🚀 [Guidely](https://mehdibha.co/projects/guidely): Making dynamic and collaborative roadmaps for learning a path or skill.
