@@ -7,13 +7,6 @@ I made a goal this year to become a serial product maker who is shipping one pro
 ##### WORKING ON
 - 📖 [Notionfolio](https://notionfol.io): Making elegant blogs using Notion as a CMS.
 
-##### PRODUCTS TO BUILD
-- 🛒 [Marketplace](https://mehdibha.co/projects/guidely): An open-source marketplace made with Next.js.
-- 😎 [Awesome react](https://mehdibha.co/projects/guidely): Collaborative copy/paste react components, pages, and more (not a library).
-- 📚 [SupSpe](https://mehdibha.co/projects/guidely): A learning platform for French preparatory students.
-- 🌍 [ReactGlobalize](https://mehdibha.co/projects/guidely): Localization & translation tool
-- 📄 [JSONResumeBuilder](https://mehdibha.co/projects/reactsel): Auto-generated resumes with a simple JSON with feedback powered by AI
-
 #### USEFUL TOOLS I'VE BUILT
 - 🎧 [react-wave-player](https://github.com/mehdibha/react-wave-player): A react audio waveform player
 <!-- - 🎠 [Reactsel](https://mehdibha.co/projects/reactsel): A react carousel (Building)
