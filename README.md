@@ -5,13 +5,13 @@ Web developer, open-source enthusiast, currently working as a freelancer the day
 I made a goal this year to become a serial product maker who is shipping one product per month, you can follow my journey on social media.
 
 ##### WORKING ON
-- 📖 [Notionfolio](https://notionfol.io): Making elegant blogs using Notion as a CMS.
+- 📖 [Notionfolio](https://notionfol.io): Create your website with AI and edit your content on Notion (No coding or design skills required).
 
-#### USEFUL TOOLS I'VE BUILT
+#### WHAT I'VE BUILT
+- 📑 [notion-portfolio-blog](https://github.com/mehdibha/notion-portfolio-blog): Your personal website that uses Notion as a CMS
 - 🎧 [react-wave-player](https://github.com/mehdibha/react-wave-player): A react audio waveform player
-<!-- - 🎠 [Reactsel](https://mehdibha.co/projects/reactsel): A react carousel (Building)
-  - 📜 [Readmegen](https://mehdibha.co/projects/reactsel): Readme generator for GitHub -->
-
+- 👨‍💻 [Code Hub](https://github.com/codehub-tn/codehub.tn): A coworking website
+  
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hello@mehdibha.co).
 
 #### FIND ME ON THE WEB
