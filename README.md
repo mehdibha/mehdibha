@@ -10,7 +10,7 @@ I made a goal this year to become a serial product maker who is shipping one pro
 #### WHAT I'VE BUILT
 - 📑 [notion-portfolio-blog](https://github.com/mehdibha/notion-portfolio-blog): Your personal website that uses Notion as a CMS
 - 🎧 [react-wave-player](https://github.com/mehdibha/react-wave-player): A react audio waveform player
-- 👨‍💻 [Code Hub](https://github.com/codehub-tn/codehub.tn): A coworking website
+- 👨‍💻 [code hub](https://github.com/codehub-tn/codehub.tn): A coworking website
   
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hello@mehdibha.co).
 
