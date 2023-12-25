@@ -8,8 +8,8 @@ I made a goal this year to become a serial product maker who is shipping one pro
 - 📖 [Notionfolio](https://notionfol.io): Create your website with AI and edit your content on Notion (No coding or design skills required).
 
 #### WHAT I'VE BUILT
-- 📑 [turbocharger](https://github.com/mehdibha/notion-portfolio-blog): A monorepo starter built with Turborepo, Next.js 14, Tailwind, shadcn-ui, stripe, and more.
-- 📑 [notion-portfolio-blog](https://github.com/mehdibha/notion-portfolio-blog): Your personal website that uses Notion as a CMS
+- 📑 [Turbocharger](https://github.com/mehdibha/notion-portfolio-blog): A monorepo starter built with Turborepo, Next.js 14, Tailwind, shadcn-ui, stripe, and more.
+- 📑 [Folio](https://github.com/mehdibha/notion-portfolio-blog): Your personal website that uses Notion as a CMS
 - 🎧 [react-wave-player](https://github.com/mehdibha/react-wave-player): A react audio waveform player
   
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hello@mehdibha.com).
