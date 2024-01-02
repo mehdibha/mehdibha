@@ -1,4 +1,4 @@
-> You can follow my maker journey by [following me on LinkedIn 💌](https://www.linkedin.com/in/mehdibha)
+> You can follow my maker journey by [following me on Twitter 💌](https://www.twitter.com/mehdibha_)
 
 Web developer, open-source enthusiast, currently working as a freelancer the day, making open-source projects the night. 
 <br/>
