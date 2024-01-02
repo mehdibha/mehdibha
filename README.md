@@ -4,7 +4,7 @@ Web developer, open-source enthusiast, currently working as a freelancer the day
 <br/>
 I made a goal this year to become a serial product maker who is shipping one product per month, you can follow my journey on social media.
 
-##### WORKING ON
+#### WORKING ON
 - 📖 [Notionfolio](https://notionfol.io): Create your website with AI and edit your content on Notion (No coding or design skills required).
 
 #### WHAT I'VE BUILT
