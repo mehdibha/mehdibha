@@ -11,6 +11,7 @@ I made a goal this year to become a serial product maker who is shipping one pro
 - 🎨 [Palettify](https://github.com/mehdibha/palettify): Get an instant preview for your theme with palettify. Export your theme in one click.
 - 📖 [Notionfolio](https://notionfol.io): Create your website with AI and edit your content on Notion (No coding or design skills required).
 - 📑 [Folio](https://github.com/mehdibha/notion-portfolio-blog): Your personal website that uses Notion as a CMS
+- 🛒 [Vapi](https://github.com/mehdibha/vapi): A marketplace built with Nextjs, Prisma and TRPC.
 - 🚀 [Turbocharger](https://github.com/mehdibha/turbocharger): A monorepo starter built with Turborepo, Next.js 14, Tailwind, shadcn-ui, stripe, and more.
   
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hello@mehdibha.com).
