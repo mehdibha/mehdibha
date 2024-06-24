@@ -5,7 +5,7 @@ Web developer, open-source enthusiast, currently working as a freelancer the day
 I made a goal this year to become a serial product maker who is shipping one product per month, you can follow my journey on social media.
 
 #### WORKING ON
-- 📋 [dotUI](https://github.com/mehdibha/dotUI): React copy paste components, hooks, icons, pages and more.
+- 📋 [dotUI](https://github.com/mehdibha/dotUI): Accessible, mobile friendly, modern UI components.
 
 #### WHAT I'VE BUILT
 - 🎨 [Palettify](https://github.com/mehdibha/palettify): Get an instant preview for your theme with palettify. Export your theme in one click.
